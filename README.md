@@ -17,10 +17,10 @@
   <br/>
 
   <!-- Connect Buttons -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-View_Work-9400D3?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:sonc39754@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/yoosungjin"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://https://www.instagram.com/ysj_weather?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Portfolio-View_Work-9400D3?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/silv06"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
   <br/>
   <br/>
