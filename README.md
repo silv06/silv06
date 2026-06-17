@@ -96,7 +96,7 @@
 
   | 스택 | 규모 | 성능 | 보안 | 임팩트 | 리포지토리 |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Supabase, Python, SQL, QGIS | 전국 | 복잡한 관계형 공간 쿼리 속도 최적화 | Row Level Security (RLS) 데이터 보호 | 기술성 및 혁신성을 인정받아 교내 꿈도전장학(400만 원) 선정 | [![Repo](https://img.shields.io/badge/Repository-8A2BE2?style=flat-square&logo=github)](#) |
+  | PostgreSQL, Python, C++, QGIS | 전국 | 복잡한 관계형 공간 쿼리 속도 최적화 | Row Level Security (RLS) 데이터 보호 | 기술성 및 혁신성을 인정받아 교내 꿈도전장학(400만 원) 선정 | [![Repo](https://img.shields.io/badge/Repository-8A2BE2?style=flat-square&logo=github)](#) |
   
   **전문성 상세:** Supabase 환경에서 PostGIS 기반 공간 데이터베이스 아키텍처를 구축하였으며, 실시간 기상 데이터 파싱 및 공간 조인 연산을 자동화하여 동적인 추천 알고리즘을 구현했습니다.
 </details>
@@ -104,7 +104,7 @@
 ---
 
 <!-- 6. Experience Section -->
-## 💼 경험 및 학력
+## 경험 및 학력
 
 **학생 풀스택 개발자** | **경희대학교 지리학과&인공지능학과&컴퓨터공학과 (2학년)**
 *2025년 1월 – 현재*
@@ -116,13 +116,14 @@
 ---
 
 <!-- 7. Achievements Section -->
-## 🏆 수상 및 성과
+## 수상 및 성과
 
 <div align="center">
 
 | 수상 및 성과 내역 | 상세 내용 |
 | :--- | :--- |
-| **대상 (총장상)** | 제주 글로벌 AWS 항공우주 해커톤 (제주한라대학교 주관) |
+| **최우수상&우수상** | 2022~2024 YEEP 전국 청소년 창업경진대회 수상 |
+| **우수상 (총장상)** | 제주AWS Global Space Challenge Hackathon (AWS 주관) |
 | **꿈도전장학 증서** | "산과 자연인" 프로젝트 수행 및 개발비 지원 4,000,000 KRW 수혜 (경희대학교) |
 
 </div>
@@ -130,17 +131,17 @@
 ---
 
 <!-- 8. Certifications Section -->
-## 📜 자격 및 수료
+## 자격 및 수료
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Aerospace_Hackathon_Grand_Prize-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cert"/>
-  <img src="https://img.shields.io/badge/Spatial_Data-GIS_%26_Remote_Sensing-8A2BE2?style=for-the-badge&logo=map&logoColor=white" alt="GIS Cert"/>
+  <img src="https://img.shields.io/badge/AWS-Aerospace_Hackathon_Grand_Prize-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="초경량비행장치(드론) 1종"/>
+  <img src="https://img.shields.io/badge/Spatial_Data-GIS_%26_Remote_Sensing-8A2BE2?style=for-the-badge&logo=map&logoColor=white" alt="ADsP(빅데이터 준 전문가)"/>
 </div>
 
 ---
 
 <!-- 9. GitHub Analytics Section -->
-## 📊 GitHub 통계
+## GitHub 통계
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9400D3" alt="GitHub Stats" width="48%"/>
