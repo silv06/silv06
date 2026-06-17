@@ -134,8 +134,8 @@
 ## 자격 및 수료
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Aerospace_Hackathon_Grand_Prize-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="초경량비행장치(드론) 1종"/>
-  <img src="https://img.shields.io/badge/Spatial_Data-GIS_%26_Remote_Sensing-8A2BE2?style=for-the-badge&logo=map&logoColor=white" alt="ADsP(빅데이터 준 전문가)"/>
+  <img src="https://img.shields.io/badge/초경량비행장치(드론) 1종-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="초경량비행장치(드론) 1종"/>
+  <img src="https://img.shields.io/badge/ADsP(빅데이터 분석 준 전문가)-8A2BE2?style=for-the-badge&logo=map&logoColor=white" alt="ADsP(빅데이터 분석 준 전문가)"/>
 </div>
 
 ---
