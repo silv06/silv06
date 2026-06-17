@@ -1,6 +1,6 @@
 <!-- 1. Animated Header Section -->
 <div align="center">
-  ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Yoo%20Sung-Jin&fontSize=50&fontAlignY=35&desc=Microclimate%20Researcher%20and%20GeoAI%20Developer&descAlignY=55&descSize=20)
+  <img src=https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Yoo%20Sung-Jin&fontSize=50&fontAlignY=35&desc=Microclimate%20Researcher%20and%20GeoAI%20Developer&descAlignY=55&descSize=20 width="100%" alt="Header Wave"/>
   
   <br/>
   
