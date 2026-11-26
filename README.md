@@ -48,7 +48,8 @@ Google Earth Engine에서 Sentinel-1·2 위성 데이터를 처리하고 AWS Lam
 
 | 시기 | 대회·프로그램 | 성과 |
 | --- | --- | --- |
-| 2026.11 | 안양시 공공데이터·AI 활용 대학생 공모전 | **대상(1위)** · 필지 블랙박스 |
+| 2026.11 | 소셜임팩트프러너 문제해결리그 | **수상 확정(11/28)** · Dortory(도토리) |
+| 2026.11 | 안양시 공공데이터·AI 활용 대학생 공모전 | **최우수상(1위)** · 필지 블랙박스 |
 | 2026.11 | Korea Local Marketing Hackathon | **Travel's Pick** · LocoVoice |
 | 2026.07 | 대전 공공데이터·AI 활용 창업경진대회 | **우수상(2위)** · 제품·서비스 개발 부문 · .ZIP |
 | 2026.02 | Jeju·AWS Global Space Challenge Hackathon | **우수상(3위)** · 어디 오름? |
